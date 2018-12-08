@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/abt"
+
+            android:textSize="16sp"
+            android:title="About" />
+        <item
+            android:id="@+id/addstud"
+            android:textSize="16sp"
+
+            android:title="AddStudent" />
+        <item
+            android:id="@+id/takeatt"
+            android:textSize="16sp"
+
+
+            android:title="TakeAttendance" />
+
+        <item
+            android:id="@+id/viewatt"
+            android:textSize="16sp"
+
+            android:title="ViewAttendance" />
+
+    </group>
+</menu>
